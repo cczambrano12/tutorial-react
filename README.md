@@ -31,3 +31,10 @@ npm install
 ```
 npm start
 ```
+
+##### Recursos adicionales:
+* Documentación de React https://reactjs.org/docs/getting-started.html
+* Material-ui https://material-ui.com/
+* Free react templates https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci
+* Axios https://www.npmjs.com/package/axios
+* Typescript https://www.typescriptlang.org/
